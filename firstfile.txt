@@ -9,4 +9,5 @@ lets start with some
 
 ls List of file
 ls -ltr List of file in proper order 
+ls -ltra is used for hidden file
 
