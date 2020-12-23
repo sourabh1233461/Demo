@@ -2,3 +2,11 @@ welcome to Git
 
 This file is use to practice git with
 linux
+
+new version will needs to add
+
+lets start with some
+
+ls List of file
+ls -ltr List of file in proper order 
+
