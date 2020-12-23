@@ -1,0 +1,4 @@
+welcome to Git
+
+This file is use to practice git with
+linux
