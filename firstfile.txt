@@ -11,3 +11,9 @@ ls List of file
 ls -ltr List of file in proper order 
 ls -ltra is used for hidden file
 
+
+
+SOME Python syntax also needs to
+add 
+now
+
